@@ -16,7 +16,7 @@
     "android": "react-native-scripts android",
     "ios": "react-native-scripts ios",
     "test": "node node_modules/jest/bin/jest.js --watch",
-    "storybook": "storybook start -p 7007 -h 192.168.0.8"
+    "storybook": "storybook start -p 7007 -h 10.255.255.132"
   },
   "jest": {
     "preset": "jest-expo"
